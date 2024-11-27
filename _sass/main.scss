@@ -10,7 +10,13 @@ body {
     transition: all 0.25s ease;
 }
 
-
+@media screen and (min-width: 769px), print {
+    .columns:not(.is-desktop) {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
 
 /* width */
 ::-webkit-scrollbar {
