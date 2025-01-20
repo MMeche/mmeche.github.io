@@ -1,20 +1,28 @@
 - name: With Sugar PLease
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: Mon premier jeu. Développé en équipe lors de la gamejam Advance organisée par 803z en 2021, association des arts de l'université Gustave Eiffel. Plateformer au gameplay innovant.
+  image: ./assets/images/SugarPLease.png
+  link: https://oradimi.itch.io/with-sugar-please
+  description: Mon premier jeu. Développé en équipe lors de la gamejam Advance organisée par 803z en 2021, association des arts de l'université Gustave Eiffel. Plateformer au gameplay innovant développé sur Godot.
 - name: The Bread's Lair
-  link:
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: Second jeu, non achevé. Développé en solitaire lors de la gamejam 64 organisée par 803z en 2022, association des arts de l'université Gustave Eiffel.
+  link: https://mmeche.itch.io/breads-lair
+  image: ./assets/images/BreadsLair.png
+  description: Second jeu, non achevé. Développé en solitaire lors de la gamejam 64 organisée par 803z en 2022, association des arts de l'université Gustave Eiffel. Survivor développé sur Unity.
 - name: Rubik's 4D
-  link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: Un jeu développé dans le cadre d'un projet tutoré, en équipe. Un jeu de Rubik's Cube en 4D achevé en 2023.
+  link: https://oradimi.itch.io/rubik4d
+  image: ./assets/images/Rubik4D.png
+  description: Un jeu développé dans le cadre d'un projet tutoré, en équipe. Un jeu de Rubik's Cube en 4D achevé en 2023, developpé sur Unity.
 - name: Sous la Lumière Du Nord
-  link:
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Un jeu développé en équipe dans le cadre de la gamejam du Musée d'Art de Rouyn-Noranda de 2024.
-- name: Fifth Project
-  link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: 
+  link: https://mmeche.itch.io/sous-la-lumiere-du-nord
+  image: ./assets/images/LumièreDuNord.png
+  description: Un jeu développé en équipe dans le cadre de la gamejam du Musée d'Art de Rouyn-Noranda de 2024. Développé sur Godot.
+- name: Grenouille Poète
+  link: https://mmeche.itch.io/grenouille-poete
+  image: ./assets/images/GrenouillePoete.png
+  description: Un micro jeu développé en solitaire sous Unity dans le cadre de mon entrée à l'UQAT. Il mêle le jeu casual à la poésie.
+- name: Là où le courant nous emmène
+  link: https://github.com/helixfossil566/OuLeCourantNousAmene
+  image:
+  description: Projet de fin d'étude à l'UQAT, en cours de développement sur Godot. C'est un jeu traitant de différente dynamiques de couples favorisant le dialogue avec légéreté.
+#- name: The Light Corridor
+#  link: https://github.com/MMeche/corridorOfLight
+#  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+#  description: Projet de fin de semestre 2 de mon cycle ingénieur à l'IMAC. Une réappropriation sous OpenGL 3 du titre The Light Corridor.

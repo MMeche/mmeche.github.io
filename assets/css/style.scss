@@ -72,7 +72,12 @@ a.navbar-item.is-active {
     .image {
         max-width: 20vmax;
         margin: auto;
-
+        transition : all 0.5s;
+        :hover {
+            scale : 1.05;
+            transition : all 0.5s;
+        }
+        
         img {
             border: 0.25rem dotted black;
         }

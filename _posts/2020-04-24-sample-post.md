@@ -17,13 +17,10 @@ For more information about writing markdown you can checkout the following markd
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 ---
-
+<div style="text-align:center;">
 # This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+
+</div>
 
 **Bold Text in the post will look like:**<br>
 **This text is Bold**
