@@ -1,5 +1,5 @@
 ---
-layout: projets_jv
 title: Projets Jeux-Vidéos
+layout: projets_jv
 ---
 

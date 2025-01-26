@@ -1,5 +1,5 @@
 ---
-layout: projets_others
 title: Mes autres Projets
+layout: projets_others
 ---
 
