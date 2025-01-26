@@ -39,7 +39,7 @@
             </h3>
             <div class="column is-full is-size-3">
                 {% unless site.facebook_username == %}
-                <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><img src="assets/images/facebooklogo.png" width="15%"></a>
+                <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><img id="logo" src="assets/images/facebooklogo.png" width="15%"></a>
                 {% endunless %}
                 <!--{% unless site.twitter_username == %}
                 <a href="https://twitter.com/intent/user?screen_name={{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>
@@ -48,10 +48,10 @@
                 <a href="http://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black"><i class="fab fa-instagram"></i></a>
                 {% endunless %}-->
                 {% unless site.linkedin_username ==  %}
-                <a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><img src="assets/images/linkedinlogo.png" width="15%"></a>
+                <a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><img id="logo" src="assets/images/linkedinlogo.png" width="15%"></a>
                 {% endunless %}
                 {% unless site.github_username ==  %}
-                <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><img src="assets/images/githublogo.png" width="15%"></a>
+                <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><img id="logo" src="assets/images/githublogo.png" width="15%"></a>
                 {% endunless %}
                 <!--{% unless site.youtube_channel_id ==  %}
                 <a href="http://www.youtube.com/channel/{{site.youtube_channel_id}}" target="_blank" class="has-text-black"><i class="fab fa-youtube"></i></a>
@@ -69,10 +69,10 @@
                 <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black"><i class="fab fa-spotify"></i></a>
                 {% endunless %}-->
                 {% unless site.discord_id ==  %}
-                <a href="http://discord.com/users/{{site.discord_id}}" target="_blank" class="has-text-black"><img src="assets/images/discordlogo.png" width="15%"></a>
+                <a href="http://discord.com/users/{{site.discord_id}}" target="_blank" class="has-text-black"><img id="logo" src="assets/images/discordlogo.png" width="15%"></a>
                 {% endunless %}
                 {% unless site.itch_username ==  %}
-                <a href="http://itch.io/profile/{{site.itch_username}}" target="_blank" class="has-text-black"><img src="assets/images/itchiologo.png" width="15%"></a>
+                <a href="http://itch.io/profile/{{site.itch_username}}" target="_blank" class="has-text-black"><img id="logo" src="assets/images/itchiologo.png" width="15%"></a>
                 {% endunless %}
             </div>
         </div>
